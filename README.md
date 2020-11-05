@@ -1,6 +1,6 @@
 # Basic Guess Game
 
-> _Educational project_
+> _Educational project_ > <br/>_Published on GitHub pages [here](https://villian79.github.io/guess_game/)_
 
 This is a basic HTML based guess game which allows the user to gues a random number from 1 to 20 and produces the outcome (win/loss)
 
